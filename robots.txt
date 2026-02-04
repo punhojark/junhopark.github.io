@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://junhopark.github.io/sitemap.xml
+Sitemap: https://punhojark.github.io/sitemap.xml
